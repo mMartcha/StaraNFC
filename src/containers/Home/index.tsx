@@ -49,7 +49,7 @@ export default function Home(){
             </ProfilePictureView>
 
             <InformationContainerView>
-                <InformationView title="Neil Smith" jobPosition="Dev" />
+                <InformationView title="John Doe" jobPosition="Dev" />
             </InformationContainerView>
             
             <ScrollView>

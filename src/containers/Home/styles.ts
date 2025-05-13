@@ -38,6 +38,9 @@ export const ProfilePictureView = styled.div`
     justify-content: center;
     z-index: 2; 
     overflow: hidden; 
+    top: 80px;
+
+
 `
 export const InformationContainerView = styled.div`
     display: flex;
